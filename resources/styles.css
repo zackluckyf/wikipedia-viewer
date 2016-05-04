@@ -1,0 +1,55 @@
+/* ---------------------------------------- */
+/* BASIC SETUP */
+/* ---------------------------------------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    background-color: #0107a5;
+    color: #ededed;
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+
+.wrapper {
+    text-align: center;
+}
+.top {
+    margin-top: 40vh;
+}
+
+a {
+    cursor: pointer;
+    color: #ededed;
+    text-decoration: none; 
+    display: block;
+}
+
+
+.title1 {
+    margin: auto;
+}
+
+.title2 {
+    margin: auto;
+}
+
+.title3 {
+    margin: auto;
+}
+
+.title5 {
+    margin: auto;
+}
+
+.title4 {
+    margin: auto;
+}
